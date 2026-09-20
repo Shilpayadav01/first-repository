@@ -1,1 +1,2 @@
 This is my practice repos and this is my first sentence in my practice repos.
+this second sentence is the one which i wrote in github file and now i will pull this file on gitbash n get it from remote repository to my local machine.
